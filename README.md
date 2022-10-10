@@ -1,1 +1,3 @@
-# stand-curated-constructs
+# Curated Constructs
+
+A repository of curated constructs
